@@ -136,6 +136,6 @@ let numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 
 // console.log(filteredNumbers);
 
-let str = "some string";
+// let str = "some string";
 
-console.log(str.length);
+// console.log(str.length);
