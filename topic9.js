@@ -21,15 +21,15 @@
 // console.log(sum(1,2));
 
 
-function sum(a, b){
-    return new Promise((resolve, reject) => {
-        if(a > 0){
-            resolve(a + b);
-        }else {
-            reject("Error happened");
-        }
-    })
-}
+// function sum(a, b){
+//     return new Promise((resolve, reject) => {
+//         if(a > 0){
+//             resolve(a + b);
+//         }else {
+//             reject("Error happened");
+//         }
+//     })
+// }
 
 // console.log(sum(1,2));
 // sum(-1,2).then(result =>{
@@ -44,9 +44,9 @@ function sum(a, b){
 // }).then(result => {
 //     console.log(result);
 // });
-sum(2,3).then(result => {
-    console.log(result);
-    return sum(10,20);
-}).then(result => {
-    console.log(result);
-});
+// sum(2,3).then(result => {
+//     console.log(result);
+//     return sum(10,20);
+// }).then(result => {
+//     console.log(result);
+// });

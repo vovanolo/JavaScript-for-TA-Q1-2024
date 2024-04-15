@@ -1,0 +1,22 @@
+{
+  "name": "javascript-for-ta-q1-2024",
+  "version": "1.0.0",
+  "description": "Practice task",
+  "main": "topic10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanolo/JavaScript-for-TA-Q1-2024.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanolo/JavaScript-for-TA-Q1-2024/issues"
+  },
+  "homepage": "https://github.com/vovanolo/JavaScript-for-TA-Q1-2024#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
